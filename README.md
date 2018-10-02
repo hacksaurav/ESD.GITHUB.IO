@@ -1,2 +1,1 @@
-# uss101.GITHUB.IO
-GitLearn part 1
+This is my README.md file which apparently has nothing good to show to you.
